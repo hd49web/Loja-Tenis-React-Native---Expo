@@ -1,0 +1,10 @@
+ <ScrollView>
+            <Text style={styles.text}>LANÇAMENTO</Text>
+
+            <View style={{flexDirection:'row', justifyContent: 'space-around'}}>
+                <View style={{width: 80 , height:80 , backgroundColor: 'red'}}></View>
+                <View style={{width: 80 , height:80 , backgroundColor: 'red'}}></View>
+            </View>
+            </ScrollView>
+
+            para colocar um quadrado vermelho um do lado do outro..caso quer
